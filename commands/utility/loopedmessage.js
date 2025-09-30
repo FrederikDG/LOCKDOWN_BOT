@@ -16,7 +16,7 @@ function setupLoopedMessages(client) {
       channelId: "1293671224811065406", // dok noord
     },
     {
-      time: "0 19 * * 7", // Sunday 19:00
+      time: "0 12 * * 7", // Sunday 12:00
       message: "Vergeet niet de drankvoorraad door te geven en de bakken buiten te zetten!",
       channelId: "1293671435839082506", // kortrijk
     },
