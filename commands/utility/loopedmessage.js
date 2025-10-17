@@ -37,7 +37,7 @@ function setupLoopedMessages(client) {
     },
     {
       // Every month on the 17th at 12:00
-      time: "0 12 17 * *",
+      time: "0 16 17 * *",
       message: "📅 Je krijgt vandaag of morgen de mail om je beschikbaarheden door te geven. Vergeet dit niet te doen aub. 🙏 @everyone",
       channelId: "1331675812268605510", // vaste medewerkers
     },
